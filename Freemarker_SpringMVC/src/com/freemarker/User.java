@@ -1,4 +1,9 @@
 package com.freemarker;
+/**
+ * Test git
+ * @author JavaDev2
+ *
+ */
 
 public class User {
 	private String firstname;
