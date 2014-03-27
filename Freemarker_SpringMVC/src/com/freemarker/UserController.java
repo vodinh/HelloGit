@@ -8,7 +8,9 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-
+/**
+ * change from jasonvo user
+ */
 @Controller
 public class UserController {
 	
@@ -38,5 +40,9 @@ public class UserController {
 	        }
 		 return "redirect:index.html";
 	}
-	
+	/**
+	 * change from jasonvo user
+	 *//**
+	 * change from jasonvo user
+	 */
 }
