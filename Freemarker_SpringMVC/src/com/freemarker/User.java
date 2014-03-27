@@ -1,7 +1,8 @@
 package com.freemarker;
 /**
  * Test git
- * @author JavaDev2
+ * edit when file is already in staged area.
+ * @author Jason
  *
  */
 

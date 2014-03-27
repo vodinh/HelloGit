@@ -6,6 +6,9 @@ package com.freemarker;
  *
  */
 public class GitTest {
+	/**
+	 * This is change for test stash local change before pull from remote server :) 
+	 */
 	public static void main(String[] args) {
 		/**
 		 * This is change from vodinh
@@ -13,6 +16,9 @@ public class GitTest {
 		System.out.println("GIT is cool");
 		/**
 		 * change from jasonvo user
+		 */
+		/**
+		 * This is change for test stash local change before pull from remote server :) 
 		 */
 	}
 }
