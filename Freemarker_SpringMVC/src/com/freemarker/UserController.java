@@ -11,6 +11,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * change from jasonvo user
  */
+/**
+ * This is change from vodinh
+ */
+/**
+ * This is change from vodinh
+ */
 @Controller
 public class UserController {
 	

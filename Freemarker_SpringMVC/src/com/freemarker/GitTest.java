@@ -36,4 +36,32 @@ public class GitTest {
 		 * This is change for test stash local change before pull from remote server :) 11111111111
 		 */
 	}
+	
+	/**
+	 * This is change from vodinh
+	 */
+	/**
+	 * This is change from vodinh
+	 */
+	/**
+	 * This is change from vodinh
+	 */
+	/**
+	 * This is change from vodinh
+	 */
+	/**
+	 * This is change from vodinh
+	 */
+	/**
+	 * This is change from vodinh
+	 */
+	/**
+	 * This is change from vodinh
+	 */
+	/**
+	 * This is change from vodinh
+	 */
+	/**
+	 * This is change from vodinh
+	 */
 }
