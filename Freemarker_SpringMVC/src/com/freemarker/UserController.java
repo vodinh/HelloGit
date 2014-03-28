@@ -19,6 +19,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * @author ubuntu
  *
  */
+/**
+ * This is change from vodinh
+ */
+/**
+ * This is change from vodinh
+ */
 @Controller
 public class UserController {
 	/**
