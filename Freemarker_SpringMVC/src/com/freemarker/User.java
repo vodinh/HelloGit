@@ -19,19 +19,27 @@ public class User {
 	public User() {
 		super();
 	}
-
+	/**
+	 * change from jasonvo user
+	 */
 	public String getFirstname() {
 		return firstname;
 	}
-
+	/**
+	 * change from jasonvo user
+	 */
 	public void setFirstname(String firstname) {
 		this.firstname = firstname;
 	}
-
+	/**
+	 * change from jasonvo user
+	 */
 	public String getLastname() {
 		return lastname;
 	}
-
+	/**
+	 * change from jasonvo user
+	 */
 	public void setLastname(String lastname) {
 		this.lastname = lastname;
 	}
